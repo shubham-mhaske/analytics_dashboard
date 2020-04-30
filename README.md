@@ -14,4 +14,4 @@
 
 
 ### page wise visits
-![](page.png)
+![](pages.png)
