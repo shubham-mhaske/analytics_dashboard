@@ -1,16 +1,17 @@
 # analytics_dashboard
 
 
-## City Wise Visitor Count
+### City Wise Visitor Count
 
 ![](Dash.gif)
 
 
 
-## Total Visitors
+### Total Visitors
+![](total.png)
+### State Wise pie chart
+![](pie.png)
 
-## State Wise pie chart
 
-
-
-## page wise visits
+### page wise visits
+![](page.png)
